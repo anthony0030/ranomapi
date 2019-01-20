@@ -1,0 +1,11 @@
+{
+  "main.js": "/ranomapi/static/js/main.be52ba01.chunk.js",
+  "main.js.map": "/ranomapi/static/js/main.be52ba01.chunk.js.map",
+  "static/js/1.0f65daa1.chunk.js": "/ranomapi/static/js/1.0f65daa1.chunk.js",
+  "static/js/1.0f65daa1.chunk.js.map": "/ranomapi/static/js/1.0f65daa1.chunk.js.map",
+  "runtime~main.js": "/ranomapi/static/js/runtime~main.bde71e2b.js",
+  "runtime~main.js.map": "/ranomapi/static/js/runtime~main.bde71e2b.js.map",
+  "index.html": "/ranomapi/index.html",
+  "precache-manifest.a568d7a19740b51401f30f9b7c590ef1.js": "/ranomapi/precache-manifest.a568d7a19740b51401f30f9b7c590ef1.js",
+  "service-worker.js": "/ranomapi/service-worker.js"
+}
