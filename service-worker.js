@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ranomapi/precache-manifest.a568d7a19740b51401f30f9b7c590ef1.js"
+  "/ranomapi/precache-manifest.c7fcb8688740b6485767baf27b268f2c.js"
 );
 
 workbox.clientsClaim();
