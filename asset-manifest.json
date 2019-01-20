@@ -1,11 +1,13 @@
 {
-  "main.js": "/ranomapi/static/js/main.3ce3e9eb.chunk.js",
-  "main.js.map": "/ranomapi/static/js/main.3ce3e9eb.chunk.js.map",
+  "main.css": "/ranomapi/static/css/main.79fa52b2.chunk.css",
+  "main.js": "/ranomapi/static/js/main.02072aee.chunk.js",
+  "main.js.map": "/ranomapi/static/js/main.02072aee.chunk.js.map",
   "static/js/1.0f65daa1.chunk.js": "/ranomapi/static/js/1.0f65daa1.chunk.js",
   "static/js/1.0f65daa1.chunk.js.map": "/ranomapi/static/js/1.0f65daa1.chunk.js.map",
   "runtime~main.js": "/ranomapi/static/js/runtime~main.bde71e2b.js",
   "runtime~main.js.map": "/ranomapi/static/js/runtime~main.bde71e2b.js.map",
+  "static/css/main.79fa52b2.chunk.css.map": "/ranomapi/static/css/main.79fa52b2.chunk.css.map",
   "index.html": "/ranomapi/index.html",
-  "precache-manifest.c7fcb8688740b6485767baf27b268f2c.js": "/ranomapi/precache-manifest.c7fcb8688740b6485767baf27b268f2c.js",
+  "precache-manifest.b526cbda09ac78d42a21537102d7e2cc.js": "/ranomapi/precache-manifest.b526cbda09ac78d42a21537102d7e2cc.js",
   "service-worker.js": "/ranomapi/service-worker.js"
 }

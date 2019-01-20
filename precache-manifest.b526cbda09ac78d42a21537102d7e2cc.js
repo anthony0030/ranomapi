@@ -1,7 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3ce3e9ebb2c8fbd36d00",
-    "url": "/ranomapi/static/js/main.3ce3e9eb.chunk.js"
+    "revision": "02072aeeaa07253b2233",
+    "url": "/ranomapi/static/css/main.79fa52b2.chunk.css"
+  },
+  {
+    "revision": "02072aeeaa07253b2233",
+    "url": "/ranomapi/static/js/main.02072aee.chunk.js"
   },
   {
     "revision": "0f65daa1205e4afb7f71",
@@ -12,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ranomapi/static/js/runtime~main.bde71e2b.js"
   },
   {
-    "revision": "211368642d0d3b40fe7efda05120b1ea",
+    "revision": "c36f55009862fa0dec5574b331277e87",
     "url": "/ranomapi/index.html"
   }
 ];
