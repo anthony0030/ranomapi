@@ -8,7 +8,8 @@ class App extends Component {
     // this.toggle = this.toggle.bind(this);
     this.state = {
       results: [],
-      bonus: ""
+      bonus: "",
+      id: ""
     };
   }
 
@@ -21,7 +22,8 @@ opap = () => {
   .then( (response) => {
     this.setState({
       results: response.data.last.winningNumbers.list.sort((a, b) => a - b),
-      bonus: response.data.last.winningNumbers.bonus[0]
+      bonus: response.data.last.winningNumbers.bonus[0],
+      id: response.data.last.drawId
     });
     console.log(response.data.last.winningNumbers.list)
   });
@@ -36,9 +38,10 @@ componentDidMount() {
 
 
   render() {
-    const { results, bonus } = this.state;
+    const { results, bonus, id } = this.state;
     return (
       <div className="App">
+        <h1>{id}</h1>
         <ul>
          {
            results.map((item, i) =>
